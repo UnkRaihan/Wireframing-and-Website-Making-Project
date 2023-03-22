@@ -1,0 +1,71 @@
+.top,
+.left,
+.right {
+    display: flex;
+}
+
+.top {
+    justify-content: flex-start;
+    margin: 10px;
+}
+
+.LMR {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 300px;
+    margin-left: 300px;
+    background: #383434;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.leftb {
+    font-size: 20px;
+}
+
+.rightb {
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-bottom: auto;
+}
+
+.question {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    background: #789c7c;
+    display: flex;
+    justify-content: center;
+}
+
+
+.top {
+    background: #383434;
+    justify-content: space-between;
+}
+
+.quote,
+.by {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+body {
+    color: #e6e6e6;
+    background: url("https://images6.alphacoders.com/102/thumb-1920-1027254.jpg");
+}
+
+a {
+    color: #e6e6e6;
+}
+
+.mainname {
+    font-size: 40px;
+}
+
+.websitename {
+    font-size: 40px;
+}
